@@ -1,6 +1,6 @@
 # Google Accounts Creator · The Ultimate Tool for Gmail Automation 🚀
 
-Accounts Creator - a program for automatic bulk creation of Google accounts. The main difficulty of mass account registration is Google's anti‑bot protection.  The protection system successfully recognizes the frequent creation of accounts from the same device or IP.  And even if you use incognito mode and constantly change IP, through a router reboot or proxy, Google will easily recognize this.  
+Accounts Creator - a program for automatic bulk creation of Google accounts. The main difficulty of mass account registration is Google's anti‑bot protection.  The protection system successfully recognizes the frequent creation of addresses from the same device or IP.  And even if you use incognito mode and constantly change IP, through a router reboot or proxy, Google will easily recognize this.  
 Our software is designed to solve this problem. It uses advanced **fingerprint spoofing systems**, supports **proxies**, and, just as importantly, connects them correctly to avoid leaks.
 
 ## More info: https://youtube-booster.space/google-accounts-creator/
@@ -23,7 +23,7 @@ Our software is designed to solve this problem. It uses advanced **fingerprint s
 
 ---
 
-## Features ✅ <a id="features"></a>
+## Features of Gmail ID Creator ✅ <a id="features"></a>
 
 - Unlimited account creation.  
 - Mobile, residential, static (socks5/http) proxy support. Also, the bot allows to use API for IP reset.  
@@ -55,7 +55,7 @@ Our software is designed to solve this problem. It uses advanced **fingerprint s
 - Refill the balance on one of the available SMS services  
 
 ### Installation
-1. **Download** the latest release from the repository.  
+1. **Download** the latest release of the Gmail bot creator from the repository.  
 2. **Launch** `GoogleAccReger.exe`. During the first startup, the program will automatically install all necessary components and libraries, so the startup may take longer. Updates are made according to the same principle when restarting; if a new version of the program is available, it will be installed automatically. Nothing is required from you.
 
 ### First run
@@ -103,7 +103,7 @@ Our software is designed to solve this problem. It uses advanced **fingerprint s
 
 ## Advanced settings 🌐 <a id="9-advanced-settings"></a>
 
-- If you are the site owner, you can collect fingerprints from users of your site. *Learn more.*  
+- If you are the site owner, you can collect fingerprints from users of your site. *Learn more: https://wiki.bablosoft.com/doku.php?id=customservers*  
 - **Use custom servers.** Works only if custom server functionality is enabled in your account. Otherwise, an error will occur. Compatible with PerfectCanvas.  
   - `true` – Use custom server to obtain fingerprint.  
   - `false` – Obtain fingerprint from the common server.  
